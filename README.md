@@ -1,7 +1,7 @@
 <p align="center"><img width="auto" height="175px" src="./laptop.png"/></p>
 
 <h1 align="center">Hi <img src="./wave.gif" width="30px">, I'm Sawa! 🐧</h1>
-<h3 align="center">On the path of becoming Ninja Coder</h3>
+<h3 align="center">On the path of becoming a Coding Ninja</h3>
 
 
 ### 🙋‍♂️ About Me
