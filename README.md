@@ -23,13 +23,19 @@
 
 ### 🪐 OS
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat=Manjaro&logoColor=white)
+
 
 
 ### 🎴 Stack
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![.netCore](https://img.shields.io/badge/-.NET%20Core-darkblue)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
 
 ### 🚀 Language
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -46,9 +52,10 @@
 ### 💻 Tools
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flatwd&logo=neovim&logoColor=white)
 
 ### 🏆 Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=sawaych&theme=dracula&no-frame=true&no-bg=true)](https://github.com/sawaych/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sawaych&theme=dracula&no-frame=true&no-bg=true)](https://github.com/sawaych)
 
 ### 📊 My Github Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sawaych&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
