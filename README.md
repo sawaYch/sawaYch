@@ -58,6 +58,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sawaych&theme=dracula&no-frame=true&no-bg=true)](https://github.com/sawaych)
 
 ### 📊 My Github Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawaych&theme=dracula)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sawaych&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
 [![Sawa's github stats](https://github-readme-stats.vercel.app/api?username=sawaych&theme=dracula&hide_border=true&bg_color=0D1117&show_icons=true&count_private=true)](https://github.com/sawaych/github-readme-stats)
 [![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=sawaych&theme=dracula&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117)](https://github.com/sawaych/github-readme-stats)
