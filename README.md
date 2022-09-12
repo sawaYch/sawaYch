@@ -3,18 +3,6 @@
 <h1 align="center">Hi <img src="./wave.gif" width="30px">, I'm Sawa! 🐧</h1>
 <h3 align="center">On the path of becoming a Coding Ninja</h3>
 
-
-### 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on OpenSource Projects
-
-- 👨‍💻 All of my projects are available on [**My Github**](https://github.com/sawaYch?tab=repositories)
-
-- ⚡ Fun fact: I stopped playing violin🎻 4 years
-
-- 🥅 Goal of 2022: Learn **Rust**
 <br/>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=sawaych&color=ff69b4"/>
