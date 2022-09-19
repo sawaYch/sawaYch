@@ -43,8 +43,4 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flatwd&logo=neovim&logoColor=white)
 
 
-### 📊 My Github Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawaych&theme=dracula)
-
-
 
