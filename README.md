@@ -18,4 +18,6 @@
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>picture>
