@@ -42,5 +42,5 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flatwd&logo=neovim&logoColor=white)
 
-
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
