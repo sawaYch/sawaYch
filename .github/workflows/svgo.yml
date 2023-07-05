@@ -22,6 +22,7 @@ jobs:
       #   with:
       #     ref: main
       - uses: ericcornelissen/svgo-action@v3
+        id: svgo
         with:
           repo-token: ${{ secrets.METRICS_TOKEN }}
           
