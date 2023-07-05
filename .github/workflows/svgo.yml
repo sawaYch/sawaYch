@@ -24,3 +24,8 @@ jobs:
       - uses: ericcornelissen/svgo-action@v3
         with:
           repo-token: ${{ secrets.METRICS_TOKEN }}
+          
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        if: ${{steps.svgo.outputs.DID_OPTIMIZE}}
+        with:
+          commit_message: Optimize ${{steps.svgo.outputs.OPTIMIZED_COUNT}} SVG(s)
