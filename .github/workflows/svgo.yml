@@ -11,6 +11,8 @@ on:
   # Uncomment 1 of the next 2 lines if you want to manually trigger the Action.
   #   repository_dispatch:
   #   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   svgs:
@@ -26,9 +28,7 @@ jobs:
       #     ref: main
       - uses: ericcornelissen/svgo-action@v3
         id: svgo
-        with:
-          repo-token: ${{ secrets.METRICS_TOKEN }}
-          
+        
       - uses: stefanzweifel/git-auto-commit-action@v4
         if: ${{steps.svgo.outputs.DID_OPTIMIZE}}
         with:
