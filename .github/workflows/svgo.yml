@@ -20,6 +20,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
+          ref: main
       # Uncomment the next 2 lines to select a branch for schedule or dispatch.
       #   with:
       #     ref: main
