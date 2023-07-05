@@ -2,7 +2,6 @@ name: Optimize
 on:
   # Comment the next line if you don't want the Action to run on Pull Requests.
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
   # Uncomment the next line if you want the Action to run on pushes.
   #   push:
   # Uncomment the next 2 lines if you want the Action to run on a schedule.
