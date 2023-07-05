@@ -50,6 +50,4 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://sawaych.github.io/
-  svgo:
-    needs: github-metrics
-    uses: ./.github/workflows/svgo.yml
+          
