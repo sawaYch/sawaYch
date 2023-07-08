@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   workflow_call:
   schedule: 
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
   # Uncomment the next line if you want the Action to run on pushes.
   # Uncomment the next 2 lines if you want the Action to run on a schedule.
   #   schedule:
