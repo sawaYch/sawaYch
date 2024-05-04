@@ -1,4 +1,4 @@
-<p align="center"><img width="auto" height="256px" src="https://www.cms.void-dojo.ninja/uploads/sawa_logo_gh_banner_736b5c0935.png"/></p>
+<p align="center"><img width="auto" height="375px" src="https://www.cms.void-dojo.ninja/uploads/IMG_0209_da506f875b.PNG"/></p>
 <br/>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=sawaych&color=ff69b4"/>
