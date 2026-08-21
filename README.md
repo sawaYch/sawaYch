@@ -1,4 +1,4 @@
-<p align="center"><img height="280px" src="https://www.cms.void-dojo.ninja/uploads/logo_skyblue_d19a2960f5.png"/></p>
+<p align="center"><img height="280px" src="medium_logo_skyblue.png"/></p>
 <br/>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=sawaych&color=ff69b4"/>
@@ -6,6 +6,7 @@
 </p>
 
 ### 🎴 Stack
+
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=444444)
@@ -15,7 +16,10 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-service&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="github-metrics.svg" alt="Metrics">
 </picture>
